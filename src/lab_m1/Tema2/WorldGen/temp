@@ -1,0 +1,70 @@
+    // int x = 110, z = 125;
+    // for (int i = x; i <= z; i++) {
+    //     train[105][i] = 1;
+    // }
+
+    // x = 70, z = 125;
+    // for (int i = x; i <= z; i++) {
+    //     train[55][i] = 1;
+    // }
+    //
+    // x = 125, z = 130;
+    // for (int i = x; i <= z; i++) {
+    //     train[15][i] = 1;
+    // }
+    //
+    // x = 15, z = 25;
+    // for (int i = x; i <= z; i++) {
+    //     train[i][125] = 1;
+    // }
+    //
+    // x = 25, z = 50;
+    // for (int i = x; i <= z; i++) {
+    //     train[105][i] = 1;
+    // }
+
+    generate();
+    // int x = 100, z = 50;
+    // int offx = 10, offz = 10;
+    // for (int y = 0; y < WORLD_HEIGHT; y++) {
+    //     for (int i = 0; i < offx; i++) {
+    //         for (int j = 0; j < offz; j++) {
+    //             if (i == 0 || i == offx - 1 || j == 0 || j == offz - 1) {
+    //                 train[x + i][z + j] = 1;
+    //             }
+    //         }
+    //     }
+    // }
+    //
+    // x = 100, z = 100;
+    // for (int y = 0; y < WORLD_HEIGHT; y++) {
+    //     for (int i = 0; i < offx; i++) {
+    //         for (int j = 0; j < offz; j++) {
+    //             if (i == 0 || i == offx - 1 || j == 0 || j == offz - 1) {
+    //                 train[x + i][z + j] = 1;
+    //             }
+    //         }
+    //     }
+    // }
+    //
+    // x = 50, z = 60;
+    // for (int y = 0; y < WORLD_HEIGHT; y++) {
+    //     for (int i = 0; i < offx; i++) {
+    //         for (int j = 0; j < offz; j++) {
+    //             if (i == 0 || i == offx - 1 || j == 0 || j == offz - 1) {
+    //                 train[x + i][z + j] = 1;
+    //             }
+    //         }
+    //     }
+    // }
+    //
+    // x = 10, z = 130;
+    // for (int y = 0; y < WORLD_HEIGHT; y++) {
+    //     for (int i = 0; i < offx; i++) {
+    //         for (int j = 0; j < offz; j++) {
+    //             if (i == 0 || i == offx - 1 || j == 0 || j == offz - 1) {
+    //                 train[x + i][z + j] = 1;
+    //             }
+    //         }
+    //     }
+    // }
