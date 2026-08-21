@@ -4,12 +4,7 @@
 #include "components/simple_scene.h"
 #include "core/engine.h"
 #include "core/world.h"
-// #include "lab_m1/Tema1/Final.h"
-// #include "lab_m1/Tema1/Game/Game.h"
-// #include "lab_m1/Tema1/Tema1.h"
 #include "lab_m1/Tema2/Tema2.h"
-#include "lab_m1/lab3/lab3.h"
-#include "lab_m1/lab5/lab5.h"
 
 #if defined(WITH_LAB_M1)
 #include "lab_m1/lab_list.h"
